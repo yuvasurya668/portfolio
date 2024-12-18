@@ -1,0 +1,144 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  color: ;
+}
+header {
+  background-image: url(https://images.pexels.com/photos/1340588/pexels-photo-1340588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  border-radius: 20px;
+}
+.name {
+  padding-top: 35px;
+  padding-bottom: 15px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 50px;
+  text-shadow: 0px 0px 10px black;
+}
+.dev {
+  padding-bottom: 30px;
+}
+.button {
+  margin: 30px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  text-shadow: 0px 0px 10px red;
+}
+.about {
+  margin: 50px;
+}
+.abouttext {
+  margin: 40px;
+  font-family: "Courier New", Courier, monospace;
+}
+.project {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+.des {
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.proj {
+  text-align: left;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+.skills {
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+.skil {
+  font-family: "Courier New", Courier, monospace;
+  margin-left: 40px;
+  margin: 20px;
+}
+.education {
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.btech {
+  margin-top: 30px;
+  text-align: center;
+}
+.edis {
+  text-align: center;
+  margin: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+.inter {
+  text-align: center;
+}
+.idis {
+  margin: 20px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+.ssc {
+  text-align: center;
+}
+.sdis {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin: 20px;
+}
+.contact {
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.icons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.icon {
+  display: flex;
+  align-items: center;
+}
+.icon a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+footer {
+  text-align: center;
+  height: 10vh;
+  border-radius: 20px;
+  background-image: url(https://images.pexels.com/photos/1340588/pexels-photo-1340588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.foots {
+  display: flex;
+  justify-content: center;
+}
+.foot {
+  margin: 10px 50px;
+}
+.foot a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.cv {
+  margin-left: 40px;
+}
+.cv1 a {
+  text-align: center;
+  padding: 10px;
+  margin-top: 40px;
+  text-decoration: none;
+}
+.click {
+  margin-bottom: 40px;
+  margin-top: 20px;
+  font-size: x-large;
+  font-family: monospace;
+}
